@@ -4,6 +4,7 @@ Python ffmpeg wrapper to convert from numpy.ndarray to numpy.ndarray
 ## Requirements
 
 ```
+python3.6
 numpy
 ffmpeg
 ```
